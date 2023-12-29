@@ -1,2 +1,2 @@
 # app
- version check
+ version checking development
